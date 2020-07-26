@@ -13,3 +13,5 @@ layout: home
     </li>
   {% endfor %}
 </ul>
+
+Writing something else

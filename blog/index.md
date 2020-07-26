@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Hello World
+# POSTS
 <ul>
   {% for post in site.posts %}
     <li>
